@@ -1,0 +1,14 @@
+.header__lang-link{
+  font-family: Inter, sans-serif;
+  font-size: 24px;
+  line-height: 1.15;
+  font-weight: normal;
+  color: #FFFFFF;
+}
+
+@media only screen and (max-width:330px){
+  .header__lang-link{
+    font-size: 18px;
+    line-height: 1.35;
+  }
+}

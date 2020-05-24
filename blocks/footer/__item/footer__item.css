@@ -1,0 +1,10 @@
+.footer__item{
+  list-style: none;
+  display: inline;
+}
+
+@media only screen and (max-width: 760px){
+  .footer__item:not(:first-child){
+    margin-top: 32px;
+  }
+}
