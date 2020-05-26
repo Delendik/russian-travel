@@ -13,6 +13,9 @@
 -ul - псевдокласс :hover  
 -ul - псевдокласс :not(:first-child)
 
+**План улучшений**
+Исправить все замечания "можно лучше".
+
 **Результат**
 
 Проект: https://github.com/Delendik/russian-travel.git  

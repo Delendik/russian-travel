@@ -1,6 +1,4 @@
 .lead__caption{
-  font-family: Inter, sans-serif;
-  font-style: normal;
   font-weight: normal;
   font-size: 10px;
   line-height: 1.4;
@@ -10,4 +8,16 @@
   margin-top: 8px;
   margin-bottom: 0;
   align-self: start;
+}
+
+@media only screen and (max-width:780px){
+  .lead__caption{
+    padding-left: 24px;
+  }
+}
+
+@media only screen and (max-width:330px){
+  .lead__caption{
+    padding-left: 16px;
+  }
 }

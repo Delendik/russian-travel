@@ -1,12 +1,10 @@
 @import url(./__title/cover__title.css);
 @import url(./__subtitle/cover__subtitle.css);
-@import url(./__overlay/cover__overlay.css);
+@import url(./__link/cover__link.css);
 
 .cover{
   margin: 92px auto 0;
   padding: 0;
-  background-image: url(../../images/trains_for_cover.png);
-  background-size: cover;
   max-width: 1184px;
   height: 740px;
   position: relative;
