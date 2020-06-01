@@ -1,0 +1,12 @@
+@keyframes transparency{
+  from{
+    opacity: 1;
+  }
+  to{
+    opacity: 0.7;
+  }
+}
+
+.transparency:hover{
+  animation: transparency 1s linear 1 forwards;
+}
